@@ -1,0 +1,31 @@
+docs:
+    - title: Aranda Docs
+      url: /aranda-docs
+      subitems:
+          - subitem:
+            title: "Instagram"
+            url: https://www.instagram.com/arandasoftware/
+          - subitem:
+            title: "Facebook"
+            url: https://www.facebook.com/arandasoftware/
+          - subitem:
+            title: "Twitter"
+            url: https://twitter.com/arandasoftware
+          - subitem:
+            title: "Aranda"
+            url: https://www.arandasoftware.com/
+            childrens:
+                - children:
+                  title: "Aranda Software 2"
+                  url: https://www.arandasoft.com/
+    - title: Otros Sitios
+      subitems:
+          - subitem:
+            title: Sitio 1
+            url: http://www.sitio1.com
+
+docs-test:
+    - title: Instalación
+      chapter: Instalación
+    - title: Uso
+      chapter: Uso
